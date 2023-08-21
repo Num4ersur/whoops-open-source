@@ -29,7 +29,7 @@ To use the **Whoops Project**, follow these steps:
 
 You can host the **Whoops Project** on various platforms:
 
-- **Glitch**: Remix the project on Glitch by visiting [https://glitch.com/edit/#!/remix/whoops-open-source]([https://glitch.com/edit/#!/remix/whoops-open-source](https://glitch.com/edit/#!/import/git?url=https://github.com/Num4ersur/whoops-open-source.git)).
+- **Glitch**: Remix the project on Glitch by visiting [this link](https://glitch.com/edit/#!/import/git?url=https://github.com/Num4ersur/whoops-open-source.git).
 - **Replit**: Remix the project on Replit by visiting [https://replit.com/github/Num4ersur/whoops-open-source](https://replit.com/github/Num4ersur/whoops-open-source).
 - **Neocities**: Please note that Neocities may require a paid plan for video uploads. To host using Neocities:
   1. Download the project ZIP file from GitHub.
