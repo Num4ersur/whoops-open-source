@@ -37,7 +37,9 @@ You can host the **Whoops Project** on various platforms:
   3. Access the "MY Accounts" section.
   4. Connect to the FTP of your account using FTP programs like [FileZilla](https://filezilla-project.org/), [Cyberduck](https://cyberduck.io/), or [WinSCP](https://winscp.net/eng/index.php).
   5. Upload the project files into the `.htdocs` folder.
-  6. Please note that using video files may require a paid plan, as free plans may not support video uploads.
+  6. Caution: Using Tinkerhost or Infinity Free's free plan has a limit of 50,000 hits. Exceeding this limit could lead to your website being suspended for 24 hours. You can check your hit count by accessing the "Control Panel" of your account.
+  7. Warning: If Tinkerhost / Infinity Free detects your website as a video-sharing platform, they may suspend your site. If you encounter such issues, consider reaching out to the [support team of Infinity Free](https://infinityfree.net/support/) or [Tinkerhost](https://www.tinkerhost.com/support/).
+  8. Final Warning: Do not use the online FTP provided by Tinkerhost / Infinity Free as it might cause issues. Instead, consider using FTP programs like [FileZilla](https://filezilla-project.org/), [Cyberduck](https://cyberduck.io/), or [WinSCP](https://winscp.net/eng/index.php).
 
 ## Contributing
 
