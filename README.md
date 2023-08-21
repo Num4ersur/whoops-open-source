@@ -45,6 +45,50 @@ You can host the **Whoops Project** on various platforms:
   6. Caution: Using Tinkerhost or Infinity Free's free plan has a limit of 50,000 hits. Exceeding this limit could lead to your website being suspended for 24 hours. You can check your hit count by accessing the "Control Panel" of your account.
   7. Warning: If Tinkerhost / Infinity Free detects your website as a video-sharing platform, they may suspend your site. If you encounter such issues, consider reaching out to the [support team of Infinity Free](https://forum.infinityfree.net/) or [Tinkerhost](https://community.tinkerhost.net/).
   8. Final Warning: Do not use the online FTP provided by Tinkerhost / Infinity Free as it might cause issues. Instead, consider using FTP programs like [FileZilla](https://filezilla-project.org/), [Cyberduck](https://cyberduck.io/), or [WinSCP](https://winscp.net/eng/index.php).
+  - **Vercel**: Deploy the project on Vercel by following these steps:
+  1. Clone the repository: `git clone https://github.com/Num4ersur/whoops-open-source.git`
+  2. Install Vercel CLI (if not installed): `npm install -g vercel`
+  3. Navigate to the project folder: `cd whoops-open-source`
+  4. Deploy the project using Vercel: `vercel`
+- **Netlify**: Deploy the project on Netlify by following these steps:
+  1. Clone the repository: `git clone https://github.com/Num4ersur/whoops-open-source.git`
+  2. Sign up for a Netlify account if you don't have one.
+  3. Connect your GitHub account to Netlify.
+  4. Create a new site from Git and select your GitHub repository.
+  5. Configure the build settings and deploy the site.
+- **GitHub Pages**: Host the project on GitHub Pages by following these steps:
+  1. Push your changes to the `gh-pages` branch of your repository.
+  2. Go to the repository's Settings > Pages.
+  3. Select the `gh-pages` branch as the source and save.
+- **Ngrok** (Warning: Reveals your public IP): Make the project public using Ngrok and Python's web server:
+  1. Clone the repository: `git clone https://github.com/Num4ersur/whoops-open-source.git`
+  2. Navigate to the project folder: `cd whoops-open-source`
+  3. Start a web server with Python:
+     - **Windows**: Run `python -m http.server` in the Command Prompt.
+     - **macOS / Linux**: Open a terminal and run `python3 -m http.server`.
+  4. Download and configure Ngrok from [https://ngrok.com/download](https://ngrok.com/download):
+     - **Windows**: Download the ZIP file and extract it.
+     - **macOS / Linux**: Download the file and move the executable to an accessible location.
+  5. Run Ngrok to expose the server:
+     - **Windows**: Run `ngrok http 8000` in the Command Prompt.
+     - **macOS / Linux**: Open a terminal and run `./ngrok http 8000`.
+  6. Warning: Visiting the Ngrok URL will reveal your public IP. Consider using a VPN for added security.
+## Recommended VPNs for Added Security
+
+To enhance your online security and privacy while hosting your project, consider using a Virtual Private Network (VPN). Here are a couple of options:
+
+- **Paid VPNs**:
+  - ExpressVPN: Offers strong encryption and a wide range of server locations. [Website](https://www.expressvpn.com/)
+  - NordVPN: Known for its robust security features and large server network. [Website](https://nordvpn.com/)
+
+- **Free VPNs**:
+  - ProtonVPN: Provides a limited free plan with secure encryption and no data caps. [Website](https://protonvpn.com/)
+  - Windscribe: Offers a free plan with a generous data allowance and strong privacy features. [Website](https://windscribe.com/)
+
+Remember that while free VPNs are a good starting point, paid VPNs generally offer more advanced features and stronger security. Choose the one that best fits your needs and budget.
+
+Please note that using a VPN is just one of the measures to protect your online privacy. Always ensure you are using secure practices when hosting with ngrok.
+
 
 
 ## Contributing
