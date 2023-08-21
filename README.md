@@ -6,6 +6,11 @@ This is the GitHub repository for the **Whoops Project**.
 
 The **Whoops Project** is a project that involves video playback and overlays. It provides a video player with an overlay that displays error messages and system information in case of playback issues.
 
+## Translated README.md
+
+- [English](README.md)
+- [Spanish (Español)](https://github.com/Num4ersur/whoops-open-source/blob/main/es/README_SPANISH.md)
+  
 ## Important Note
 
 When using this project, please consider the following:
@@ -24,7 +29,7 @@ To use the **Whoops Project**, follow these steps:
 
 You can host the **Whoops Project** on various platforms:
 
-- **Glitch**: Remix the project on Glitch by visiting [https://glitch.com/edit/#!/remix/whoops-open-source](https://glitch.com/edit/#!/remix/whoops-open-source).
+- **Glitch**: Remix the project on Glitch by visiting [https://glitch.com/edit/#!/remix/whoops-open-source]([https://glitch.com/edit/#!/remix/whoops-open-source](https://glitch.com/edit/#!/import/git?url=https://github.com/Num4ersur/whoops-open-source.git)).
 - **Replit**: Remix the project on Replit by visiting [https://replit.com/github/Num4ersur/whoops-open-source](https://replit.com/github/Num4ersur/whoops-open-source).
 - **Neocities**: Please note that Neocities may require a paid plan for video uploads. To host using Neocities:
   1. Download the project ZIP file from GitHub.
