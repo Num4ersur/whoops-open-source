@@ -24,7 +24,7 @@ Para usar el **Proyecto Whoops**, sigue estos pasos:
 
 Puedes alojar el **Proyecto Whoops** en varias plataformas:
 
-- **Glitch**: Remixa el proyecto en Glitch visitando [https://glitch.com/edit/#!/remix/whoops-open-source]([https://glitch.com/edit/#!/remix/whoops-open-source](https://glitch.com/edit/#!/import/git?url=https://github.com/Num4ersur/whoops-open-source.git)).
+- **Glitch**: Remixa el proyecto en Glitch visitando [https://glitch.com/edit/#!/import/git?url=https://github.com/Num4ersur/whoops-open-source.git](https://glitch.com/edit/#!/import/git?url=https://github.com/Num4ersur/whoops-open-source.git).
 - **Replit**: Remixa el proyecto en Replit visitando [https://replit.com/github/Num4ersur/whoops-open-source](https://replit.com/github/Num4ersur/whoops-open-source).
 - **Neocities**: Ten en cuenta que Neocities puede requerir un plan de pago para cargar videos. Para alojarlo usando Neocities:
   1. Descarga el archivo ZIP del proyecto desde GitHub.
